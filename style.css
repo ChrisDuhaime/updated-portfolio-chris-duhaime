@@ -8,6 +8,11 @@
     
 }
 
-#aboutMe {
+#picture {
    padding-top: 5%; 
+   background-color: cadetblue;
+}
+
+footer {
+    background-color: burlywood;
 }
