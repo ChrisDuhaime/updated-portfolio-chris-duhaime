@@ -5,6 +5,8 @@ updated portfolio
 
 https://chrisduhaime.github.io/updated-portfolio-chris-duhaime/ --Deployed Portfolio
 
+https://github.com/ChrisDuhaime/updated-portfolio-chris-duhaime  --GitHub Repo
+
 ![Screenshot1](./images/Screenshot%20of%20Deployed%20Website.png)
 
 ![Screenshot1](./images/Screenshot2%20of%20deployed%20website.png)
